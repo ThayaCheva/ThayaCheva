@@ -1,6 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thaya Chevaphatrakul
 ============================================================================================================================================
 **`Designer & Developer`**
+
 I'm a Computer Science graduate from the University of Melbourne. I have a strong passion for Graphic Design and Front-End Development. I've also developed various software projects, ranging from games to websites. Check out my projects, and feel free to get in touch!
 
 *   🖥️  See my portfolio here! [Thaya's Portfolio](http://https://thayacheva.github.io/)
