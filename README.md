@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ============================================================================================================================================
 **`Designer & Developer`**
 
-I'm a Computer Science graduate from the University of Melbourne. I have a strong passion for Graphic Design and Front-End Development. I've also developed various software projects, ranging from games to websites. Check out my projects, and feel free to get in touch!
+I'm a Computer Science graduate from the University of Melbourne. I really enjoy working on Front-End design and development but I also like to branch out and learn new things as well. I've worked on all sorts of projects, from video games to websites. Check 'em out, and feel free to get in touch!
 
 *   🖥️  See my portfolio here! [Thaya's Portfolio](https://thayacheva.github.io/)
 *   ✉️  You can contact me at [thayajjj@gmail.com](mailto:thayajjj@gmail.com)
